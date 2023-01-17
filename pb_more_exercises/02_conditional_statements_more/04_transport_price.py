@@ -1,3 +1,5 @@
+# https://judge.softuni.org/Contests/Practice/Index/1658#3
+
 # user input
 distance = int(input())
 day_night = input()

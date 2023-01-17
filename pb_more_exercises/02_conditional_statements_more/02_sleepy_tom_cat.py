@@ -1,3 +1,5 @@
+# https://judge.softuni.org/Contests/Practice/Index/1658#1
+
 # user input
 rest_days = int(input())
 

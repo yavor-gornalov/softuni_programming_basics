@@ -1,3 +1,5 @@
+# https://judge.softuni.org/Contests/Practice/Index/1658#4
+
 from math import ceil, floor
 # user input
 days = int(input())
@@ -6,7 +8,7 @@ dog_food_kg = float(input())
 cat_food_kg = float(input())
 turtle_food_gr = float(input())
 
-#logics
+# logics
 turtle_food_kg = turtle_food_gr / 1000
 eaten_food_kg = (dog_food_kg + cat_food_kg + turtle_food_kg) * days
 

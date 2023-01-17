@@ -1,3 +1,5 @@
+# https://judge.softuni.org/Contests/Practice/Index/1642#6
+
 x = float(input())
 y = float(input())
 h = float(input())

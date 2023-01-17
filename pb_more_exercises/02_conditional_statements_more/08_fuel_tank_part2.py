@@ -1,3 +1,5 @@
+# https://judge.softuni.org/Contests/Practice/Index/1658#7
+
 # user input
 fuel_type = input()
 fuel_litters = float(input())

@@ -1,3 +1,5 @@
+# https://judge.softuni.org/Contests/Practice/Index/1642#5
+
 mackerel_price = float(input())  # скумрия
 sprinkle_price = float(input())  # цаца
 bonito_amount = float(input())  # паламуд

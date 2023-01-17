@@ -1,3 +1,5 @@
+# https://judge.softuni.org/Contests/Practice/Index/1658#0
+
 # user input
 volume = int(input())
 first_flow = int(input())

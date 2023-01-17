@@ -1,3 +1,5 @@
+# https://judge.softuni.org/Contests/Practice/Index/1642#9
+
 degrees = float(input())
 
 if 26.00 <= degrees <= 35.00:

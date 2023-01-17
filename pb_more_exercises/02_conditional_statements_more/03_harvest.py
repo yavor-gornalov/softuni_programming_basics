@@ -1,3 +1,5 @@
+# https://judge.softuni.org/Contests/Practice/Index/1658#2
+
 from math import ceil, floor
 
 # user input

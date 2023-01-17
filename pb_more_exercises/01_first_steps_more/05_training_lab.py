@@ -1,3 +1,5 @@
+# https://judge.softuni.org/Contests/Practice/Index/1642#4
+
 room_height = float(input())
 room_width = float(input())
 
