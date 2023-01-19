@@ -1,3 +1,5 @@
+# https://judge.softuni.org/Contests/Practice/Index/1048#2
+
 playground_side = int(input())
 tile_length = float(input())
 tile_width = float(input())

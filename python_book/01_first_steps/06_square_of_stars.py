@@ -1,3 +1,5 @@
+# https://judge.softuni.org/Contests/Practice/Index/1046#5
+
 n = int(input())
 
 for i in range(1, n + 1):

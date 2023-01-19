@@ -1,3 +1,5 @@
+# https://judge.softuni.org/Contests/Practice/Index/1047#11
+
 amount = float(input())
 currency_from = input()
 currency_to = input()

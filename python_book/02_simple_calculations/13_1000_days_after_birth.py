@@ -1,3 +1,5 @@
+# https://judge.softuni.org/Contests/Practice/Index/1047#12
+
 from datetime import datetime, timedelta
 
 day, month, year = map(int, input().split("-"))

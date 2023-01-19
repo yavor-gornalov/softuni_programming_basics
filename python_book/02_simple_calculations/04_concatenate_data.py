@@ -1,3 +1,5 @@
+# https://judge.softuni.org/Contests/Practice/Index/1047#3
+
 first_name = input()
 last_name = input()
 age = int(input())

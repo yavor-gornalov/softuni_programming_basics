@@ -1,3 +1,5 @@
+# https://judge.softuni.org/Contests/Practice/Index/1048#3
+
 bitcoin_amount = int(input())
 yuan_amount = float(input())
 commission = float(input())

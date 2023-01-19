@@ -1,3 +1,5 @@
+# https://judge.softuni.org/Contests/Practice/Index/1048#1
+
 vegetables_price = float(input())
 fruits_price = float(input())
 vegetables_quantity = int(input())

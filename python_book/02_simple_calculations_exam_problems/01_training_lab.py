@@ -1,3 +1,5 @@
+# https://judge.softuni.org/Contests/Practice/Index/1048#0
+
 length = float(input())
 width = float(input())
 
