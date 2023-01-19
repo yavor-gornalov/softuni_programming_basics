@@ -1,2 +1,4 @@
 *.pdf
 *.docx
+.gitignore
+main.py
