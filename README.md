@@ -1,4 +1,4 @@
-# softuni_programming_basics
+# Programming basics course with Python
 
 This repository contains simple exercises solved during the Programming Basics Course at Softuni. Exercises are divided into separate files, each of the files continues link to Softuni judge system at the begining. Judge system should be used for testing the code, conditions of the exercises also could be found there.
 
