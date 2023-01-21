@@ -1,3 +1,5 @@
+# https://judge.softuni.org/Contests/Practice/Index/1049#12
+
 from math import pi
 
 figure = input()

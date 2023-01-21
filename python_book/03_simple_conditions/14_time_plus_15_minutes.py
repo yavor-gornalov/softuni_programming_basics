@@ -1,3 +1,5 @@
+# https://judge.softuni.org/Contests/Practice/Index/1049#13
+
 from datetime import datetime, timedelta
 
 hours = int(input())

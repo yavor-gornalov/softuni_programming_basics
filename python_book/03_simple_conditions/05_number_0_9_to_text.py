@@ -1,3 +1,5 @@
+# https://judge.softuni.org/Contests/Practice/Index/1049#4
+
 num = int(input())
 
 if num == 1:

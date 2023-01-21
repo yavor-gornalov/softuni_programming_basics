@@ -1,3 +1,5 @@
+# https://judge.softuni.org/Contests/Practice/Index/1050#1
+
 pool_volume = int(input())
 first_pipe_flow = int(input())
 second_pipe_flow = int(input())

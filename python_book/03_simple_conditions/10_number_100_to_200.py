@@ -1,3 +1,5 @@
+# https://judge.softuni.org/Contests/Practice/Index/1049#9
+
 number = int(input())
 
 if number < 100:

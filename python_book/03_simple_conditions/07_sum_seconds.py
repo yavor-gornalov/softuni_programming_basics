@@ -1,3 +1,5 @@
+# https://judge.softuni.org/Contests/Practice/Index/1049#6
+
 first_time = int(input())
 second_time = int(input())
 third_time = int(input())

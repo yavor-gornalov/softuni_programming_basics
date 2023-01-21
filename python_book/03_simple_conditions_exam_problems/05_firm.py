@@ -1,3 +1,5 @@
+# https://judge.softuni.org/Contests/Practice/Index/1050#4
+
 hours_demanded = int(input())
 days_available = int(input())
 workers_count = int(input())

@@ -1,3 +1,5 @@
+# https://judge.softuni.org/Contests/Practice/Index/1049#5
+
 number = int(input())
 
 bonus = 0

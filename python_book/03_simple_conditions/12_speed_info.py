@@ -1,3 +1,5 @@
+# https://judge.softuni.org/Contests/Practice/Index/1049#11
+
 speed = float(input())
 
 info = ""

@@ -1,3 +1,5 @@
+# https://judge.softuni.org/Contests/Practice/Index/1050#2
+
 rest_days = int(input())
 
 working_days = 365 - rest_days

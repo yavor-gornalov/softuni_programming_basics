@@ -1,3 +1,5 @@
+# https://judge.softuni.org/Contests/Practice/Index/1050#0
+
 kilometers_count = int(input())
 trip_period = input()
 

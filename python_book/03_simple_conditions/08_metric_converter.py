@@ -1,3 +1,5 @@
+# https://judge.softuni.org/Contests/Practice/Index/1049#7
+
 size = float(input())
 input_metric = input().lower()
 output_metric = input().lower()
