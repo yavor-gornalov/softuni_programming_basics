@@ -1,3 +1,0 @@
-# https://judge.softuni.org/Contests/Practice/Index/1046#1
-
-print((3522 + 52353) * 23 - (2336 * 501 + 23432 - 6743) * 3)
